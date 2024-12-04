@@ -1,9 +1,3 @@
-# Music-Store-Data-Analysis
-
-Here’s a detailed **README.md** template for your Power BI project involving SQL, Power Query, and Power BI:
-
----
-
 # Music Store Data Dashboard
 
 ## Overview
